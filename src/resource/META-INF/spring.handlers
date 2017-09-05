@@ -1,0 +1,2 @@
+http\://www.yinchong.com/schema/people=cn.yinchong.test.PeopleNamespaceHandler
+http\://www.yinchong.com/schema/service=cn.yinchong.test.MyNamespaceHandler
